@@ -287,6 +287,10 @@
   display: flex;
   margin: 0;
 }
+.footer__table {
+  padding: 0;
+  margin: 0;
+}
 
 .footer__columns {
   width: 90%;
@@ -316,12 +320,6 @@
   margin: 0;
 }
 
-.footer__list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
 .footer__column_content_about {
   display: flex;
   flex-direction: column;
@@ -334,6 +332,12 @@
   font-size: 18px;
   line-height: 30px;
   margin: 0 0 20px;
+}
+.footer__column_content_social {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0;
 }
 
 .footer__link {
