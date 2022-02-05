@@ -1,0 +1,9 @@
+.khan__buy-link {
+  color: #2f80ed;
+  align-self: flex-start;
+  font-size: 30px;
+  text-decoration: none;
+  padding-left: 48px;
+  line-height: 42px;
+  margin-top: 68px;
+}

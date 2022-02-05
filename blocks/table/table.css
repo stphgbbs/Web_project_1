@@ -1,0 +1,16 @@
+.table {
+  padding-left: 0;
+  display: flex;
+
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 1100px;
+  margin: 0 auto;
+  list-style: none;
+  padding-top: 0px;
+  flex-direction: row;
+}
+
+.table__text:last-child {
+  margin: 0;
+}
